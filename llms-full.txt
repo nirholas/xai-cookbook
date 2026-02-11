@@ -1,0 +1,18 @@
+# xai-cookbook
+
+> A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.
+
+## Overview
+
+xai-cookbook is an open-source project by nirholas. A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.
+
+## Repository
+
+- URL: https://github.com/nirholas/xai-cookbook
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

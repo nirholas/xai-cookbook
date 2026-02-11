@@ -1,0 +1,9 @@
+# xai-cookbook
+
+> A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.
+
+## Links
+
+- Repository: https://github.com/nirholas/xai-cookbook
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/xai-cookbook/main/llms-full.txt

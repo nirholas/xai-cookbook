@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "xai-cookbook",
+    "name_for_model": "xai_cookbook",
+    "description_for_human": "A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.",
+    "description_for_model": "A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/xai-cookbook/blob/main/LICENSE"
+}

@@ -7,3 +7,15 @@ examples/**/*.tiff filter=lfs diff=lfs merge=lfs -text
 examples/**/*.webp filter=lfs diff=lfs merge=lfs -text
 images/**/*.jpg filter=lfs diff=lfs merge=lfs -text
 images/**/*.png filter=lfs diff=lfs merge=lfs -text
+
+# TypeScript / JavaScript
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+
+# Python
+*.py text eol=lf
+
+# Solidity
+*.sol text eol=lf

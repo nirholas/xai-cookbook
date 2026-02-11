@@ -1,0 +1,14 @@
+{
+    "name": "xai-cookbook",
+    "description": "A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/xai-cookbook",
+    "language": "TypeScript",
+    "topics": [
+        "nirholas",
+        "cookbook",
+        "xai",
+        "open-source"
+    ]
+}

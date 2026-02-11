@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use xai-cookbook, please cite it as below."
+type: software
+title: "xai-cookbook"
+abstract: "A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs."
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/xai-cookbook"
+url: "https://github.com/nirholas/xai-cookbook"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

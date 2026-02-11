@@ -58,3 +58,7 @@ We may suggest changes—please respond to feedback to keep the repo sharp.
 Unsure about your idea? Open an issue to discuss it first. Let’s make this a great resource together.
 
 Happy coding!
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
